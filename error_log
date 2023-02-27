@@ -1,0 +1,5 @@
+[12-Jan-2017 18:23:38 Europe/London] PHP Notice:  Undefined index: username in /home/mynotest/public_html/mainpageloggedin.php on line 92
+[12-Jan-2017 20:31:33 Europe/London] PHP Notice:  Undefined index: username in /home/mynotest/public_html/mainpageloggedin.php on line 92
+[12-Jan-2017 20:31:59 Europe/London] PHP Notice:  Undefined variable: errors in /home/mynotest/public_html/login.php on line 23
+[12-Jan-2017 20:32:59 Europe/London] PHP Notice:  Undefined variable: errors in /home/mynotest/public_html/login.php on line 23
+[12-Jan-2017 21:29:14 Europe/London] PHP Notice:  Undefined variable: errors in /home/mynotest/public_html/login.php on line 23
