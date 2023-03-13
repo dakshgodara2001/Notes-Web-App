@@ -3,6 +3,12 @@
 A simple web-based application that allows users to create, organize, and save notes online. Users can sign up for an account, log in, and access their notes from anywhere.
 This project was built using HTML, CSS, Bootstrap, JavaScript, and PHP. It uses MySQL for the database.
 
+<p align="center">
+ <img src="https://github.com/dakshgodara2001/notes-application/blob/main/Screen%20Shot%201.png">
+ <img src="https://github.com/dakshgodara2001/notes-application/blob/main/Screen%20Shot%202.png">
+ <img src="https://github.com/dakshgodara2001/notes-application/blob/main/Screen%20Shot%203.png">
+</p>
+
 ## Features
 - Sign up for an account
 - Log in with your email and password
